@@ -4,10 +4,10 @@ this code can be use to send email for some purposes(alert, massive sending of e
 
 Troubleshooting Guide if error occurs:
 
-Checking allow low secure apps in Google settings
-Trying the unlock captcha link: https://accounts.google.com/DisplayUnlockCaptcha
-Singing in and out of Google account manually (verifying with phone number)
-Changing the account password
-Enabling and disabling 2FA
-Countless other things...
+1.Checking allow low secure apps in Google settings
+2.Trying the unlock captcha link: https://accounts.google.com/DisplayUnlockCaptcha
+3.Singing in and out of Google account manually (verifying with phone number)
+4.Changing the account password
+5.Enabling and disabling 2FA
+6.Countless other things...
 
